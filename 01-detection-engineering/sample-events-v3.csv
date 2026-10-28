@@ -1,0 +1,9 @@
+Timestamp,Host,User,ProcessName,CommandLine
+2026-10-20T09:00:00Z,LAB-WS01,alex,powershell.exe,powershell.exe -NoProfile -File C:\Scripts\Inventory.ps1
+2026-10-20T09:03:00Z,LAB-WS02,sam,powershell.exe,powershell.exe -EncodedCommand SQBFAFgA
+2026-10-20T09:06:00Z,LAB-WS03,jordan,pwsh.exe,pwsh.exe -enc SQBFAFgA
+2026-10-20T09:08:00Z,LAB-WS04,pat,cmd.exe,cmd.exe /c echo hello
+2026-10-20T09:11:00Z,LAB-WS05,casey,powershell.exe,powershell.exe -NoProfile -Command Get-Service
+2026-10-20T09:15:00Z,LAB-WS06,taylor,powershell.exe,powershell.exe -e SQBFAFgA
+2026-10-20T09:20:00Z,LAB-WS07,morgan,powershell.exe,powershell.exe -ExecutionPolicy Bypass -EncodedCommand SQBFAFgA
+2026-10-20T09:25:00Z,LAB-IT01,itadmin,powershell.exe,powershell.exe -EncodedCommand VwByAGkAdABlAC0ATwB1AHQAcAB1AHQAIAAiAFIAbwB1AHQAaQBuAGUAIABJAFQAIABtAGEAaQBuAHQAZQBuAGEAbgBjAGUAIgA=
