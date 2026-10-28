@@ -1,39 +1,61 @@
 # SecOps — Security Operations Engineering & Leadership
 
-A practical portfolio exploring how security operations teams can **detect, investigate, improve, and measure** their work. Projects use synthetic data and distinguish engineering experiments from production security controls.
+A practical cybersecurity portfolio demonstrating how security operations teams can **detect threats, prioritize risk, improve security programs, and measure results**.
 
-## Security leadership case studies
+My approach combines hands-on technical understanding with security leadership, operational improvements, and business-focused decision-making.
 
-### Building a Healthcare Cybersecurity Program from the Ground Up
+Projects use synthetic data where appropriate and distinguish technical demonstrations from real-world leadership experience.
 
-A retrospective, sanitized case study of establishing a healthcare security function: hiring the initial two analysts, assessing detection and triage capabilities, introducing risk-based vulnerability management, growing a 10-person team, and presenting security trends to leadership quarterly. Reported outcomes include an **82% reduction in open critical-, high-, and medium-severity vulnerabilities over 12 months** and a separate security awareness improvement.
+## About & Leadership Philosophy
 
-[Read the leadership case study](03-security-leadership-case-study/README.md)
+I believe cybersecurity should be practical, measurable, and aligned with business priorities.
 
+My leadership approach focuses on building capable teams, improving security processes, reducing organizational risk, and helping executives understand what security investments accomplish.
 
-## Featured project
-**[PowerShell detection engineering lab](01-detection-engineering/README.md)** — detect encoded PowerShell activity, safely decode sample payloads, investigate a known benign alert, apply narrowly scoped tuning, and verify the change with regression tests. Includes an illustrative executive scorecard.
+Effective security leadership isn't just about finding vulnerabilities or generating alerts. It's about knowing which problems matter most, getting the right people involved, and demonstrating meaningful improvement.
 
-### Project 02 — Risk-Based Vulnerability Prioritization Automation
+## Security Leadership & Strategy
 
-A PowerShell automation lab demonstrating how vulnerability findings can be translated into actionable remediation priorities using severity, exploitation context, asset criticality, exposure, and finding age.
+### Project 03 — Building a Healthcare Cybersecurity Program
 
-The project includes input validation, explainable scoring, conditional priority overrides, analyst-review flags, synthetic sample data, and nine passing regression tests.
+A sanitized, retrospective case study describing how I helped establish and grow a healthcare cybersecurity function.
 
-**Leadership value:** Demonstrates how repeatable automation can help security teams focus remediation efforts, coordinate with system owners, and explain risk-based decisions to stakeholders.
+The work included hiring the initial analysts, identifying security capability gaps, implementing risk-based vulnerability management, growing the security team to 10 people, and providing quarterly executive reporting.
 
-[Explore Project 02](02-powershell-automation/README.md)
+**Measured outcome:** An 82% reduction in open critical-, high-, and medium-severity vulnerabilities over 12 months.
 
-## Leadership approach
-I focus on actionable detections, repeatable testing, analyst efficiency, preserving visibility, and translating technical results into decisions leaders can make.
+[Read Project 03 — Security Leadership Case Study](03-security-leadership-case-study/README.md)
 
 ### Project 04 — 90-Day Security Operations Roadmap
 
-A practical, risk-based plan for assessing, improving, and measuring enterprise security operations during the first 90 days.
+A hypothetical, risk-based roadmap for assessing, strengthening, and measuring enterprise security operations during the first 90 days.
 
-[View Project 04](04-90-day-security-operations-roadmap/README.md)
+The roadmap focuses on understanding existing capabilities, identifying operational gaps, improving processes, and developing meaningful performance measures.
 
-## Privacy and scope
-All included events are fictional. No employer telemetry, proprietary detection content, patient information, or credentials are included. Results are from a small synthetic learning exercise and are not presented as production performance claims.
+[Explore Project 04 — 90-Day Roadmap](04-90-day-security-operations-roadmap/README.md)
 
+## Security Engineering & Automation
 
+### Project 01 — PowerShell Detection Engineering
+
+A hands-on detection engineering lab using synthetic PowerShell activity to demonstrate suspicious command detection, safe payload inspection, false-positive tuning, and automated regression testing.
+
+Includes an illustrative executive security operations scorecard.
+
+[Explore Project 01 — Detection Engineering](01-detection-engineering/README.md)
+
+### Project 02 — Risk-Based Vulnerability Prioritization Automation
+
+A PowerShell automation lab that transforms synthetic vulnerability findings into an explainable remediation queue.
+
+The automation considers severity, known exploitation, active exploitation, asset exposure, business criticality, and finding age. It includes input validation, analyst-review flags, conditional priority overrides, and nine regression tests.
+
+**Leadership value:** Demonstrates how automation can help security teams prioritize remediation efforts, coordinate with asset owners, and communicate risk-based decisions to stakeholders.
+
+[Explore Project 02 — PowerShell Automation](02-powershell-automation/README.md)
+
+## Privacy, Scope & Limitations
+
+Technical projects use fictional assets and synthetic security data. They do not contain employer telemetry, patient information, proprietary detection content, or credentials.
+
+Real-world leadership accomplishments are presented as sanitized case studies. Hypothetical roadmaps and technical exercises are not represented as production deployments or production performance results.
