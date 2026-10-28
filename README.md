@@ -17,10 +17,13 @@ A retrospective, sanitized case study of establishing a healthcare security func
 ## Leadership approach
 I focus on actionable detections, repeatable testing, analyst efficiency, preserving visibility, and translating technical results into decisions leaders can make.
 
+### Project 04 — 90-Day Security Operations Roadmap
+
+A practical, risk-based plan for assessing, improving, and measuring enterprise security operations during the first 90 days.
+
+[View Project 04](04-90-day-security-operations-roadmap/README.md)
+
 ## Privacy and scope
 All included events are fictional. No employer telemetry, proprietary detection content, patient information, or credentials are included. Results are from a small synthetic learning exercise and are not presented as production performance claims.
 
-## Roadmap
-- Add broader detection tests and documented triage playbooks
-- Publish a sanitized security-program leadership case study
-- Develop a hypothetical first-90-days SecOps operating roadmap
+
