@@ -2,6 +2,15 @@
 
 A practical portfolio exploring how security operations teams can **detect, investigate, improve, and measure** their work. Projects use synthetic data and distinguish engineering experiments from production security controls.
 
+## Security leadership case studies
+
+### Building a Healthcare Cybersecurity Program from the Ground Up
+
+A retrospective, sanitized case study of establishing a healthcare security function: hiring the initial two analysts, assessing detection and triage capabilities, introducing risk-based vulnerability management, growing a 10-person team, and presenting security trends to leadership quarterly. Reported outcomes include an **82% reduction in open critical-, high-, and medium-severity vulnerabilities over 12 months** and a separate security awareness improvement.
+
+[Read the leadership case study](03-security-leadership-case-study/README.md)
+
+
 ## Featured project
 **[PowerShell detection engineering lab](01-detection-engineering/README.md)** — detect encoded PowerShell activity, safely decode sample payloads, investigate a known benign alert, apply narrowly scoped tuning, and verify the change with regression tests. Includes an illustrative executive scorecard.
 
