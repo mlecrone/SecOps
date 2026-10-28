@@ -1,0 +1,9 @@
+FindingId,Asset,Severity,KnownExploited,AssetCriticality,DaysOpen,Owner,Applicability,Exposure,ActiveExploitation
+V-001,LAB-DC01,Critical,True,High,14,Infrastructure,Confirmed,Internal,False
+V-002,LAB-WEB01,High,False,High,45,WebOps,Confirmed,Internet,False
+V-003,LAB-APP01,Medium,False,Medium,75,Applications,Unknown,Internal,False
+V-004,LAB-DB01,Critical,False,High,7,Database,Confirmed,Internal,False
+V-005,LAB-WS01,High,True,Low,20,Endpoint,Confirmed,Isolated,False
+V-006,LAB-WS02,Low,False,Low,120,Endpoint,Confirmed,Internal,False
+V-007,LAB-WEB02,Medium,True,Medium,5,WebOps,Confirmed,Internet,True
+V-008,LAB-APP02,High,True,Medium,10,Applications,Unknown,Internal,True
