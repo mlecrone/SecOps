@@ -14,6 +14,16 @@ A retrospective, sanitized case study of establishing a healthcare security func
 ## Featured project
 **[PowerShell detection engineering lab](01-detection-engineering/README.md)** — detect encoded PowerShell activity, safely decode sample payloads, investigate a known benign alert, apply narrowly scoped tuning, and verify the change with regression tests. Includes an illustrative executive scorecard.
 
+### Project 02 — Risk-Based Vulnerability Prioritization Automation
+
+A PowerShell automation lab demonstrating how vulnerability findings can be translated into actionable remediation priorities using severity, exploitation context, asset criticality, exposure, and finding age.
+
+The project includes input validation, explainable scoring, conditional priority overrides, analyst-review flags, synthetic sample data, and nine passing regression tests.
+
+**Leadership value:** Demonstrates how repeatable automation can help security teams focus remediation efforts, coordinate with system owners, and explain risk-based decisions to stakeholders.
+
+[Explore Project 02](02-powershell-automation/README.md)
+
 ## Leadership approach
 I focus on actionable detections, repeatable testing, analyst efficiency, preserving visibility, and translating technical results into decisions leaders can make.
 
